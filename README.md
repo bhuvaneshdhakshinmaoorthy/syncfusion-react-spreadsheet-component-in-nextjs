@@ -2,10 +2,10 @@
 
 This project demonstrates how to integrate the **Syncfusion React Spreadsheet** component into a **Next.js** application. It provides a quick-start setup for building interactive spreadsheet experiences using React's component model and Next.js's server-side rendering capabilities.
 
-📘 Refer to the official guide:  
-🔗 [Getting Started with Syncfusion Spreadsheet in Next.js](https://ej2.syncfusion.com/react/documentation/spreadsheet/nextjs-getting-started)
+Refer to the official guide:  
+[Getting Started with Syncfusion Spreadsheet in Next.js](https://help.syncfusion.com/document-processing/excel/spreadsheet/react/nextjs-getting-started)
 
-## 🎯 Project Overview
+## Project Overview
 
 The Syncfusion Spreadsheet component offers Excel-like functionality in the browser, including:
 
@@ -17,7 +17,7 @@ The Syncfusion Spreadsheet component offers Excel-like functionality in the brow
 
 This example shows how to configure the component in a Next.js environment, ensuring compatibility with SSR and dynamic imports.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -46,13 +46,7 @@ npm run dev
 
 Navigate to `http://localhost:3000/` to view the app.
 
-## ⚙️ Key Implementation Notes
-
-- The spreadsheet component is dynamically imported using `next/dynamic` to avoid SSR issues.
-- Styles are loaded via `@syncfusion/ej2-react-spreadsheet` and `@syncfusion/ej2-base` packages.
-- Spreadsheet configuration is handled inside a dedicated React component (`SpreadsheetWrapper`) for modularity.
-
-## ✨ Features Demonstrated
+## Features Demonstrated
 
 - **Dynamic Import**: Ensures compatibility with Next.js SSR.
 - **Basic Spreadsheet Setup**: Includes sheet, rows, and cell data.
@@ -60,7 +54,7 @@ Navigate to `http://localhost:3000/` to view the app.
 - **Formula Support**: Demonstrates simple calculations within cells.
 - **Responsive Layout**: Adapts to different screen sizes.
 
-## 🧑‍💻 Use Cases
+## Use Cases
 
 - Financial dashboards
 - Editable reports
@@ -68,17 +62,18 @@ Navigate to `http://localhost:3000/` to view the app.
 - Educational platforms
 - Admin panels with spreadsheet-style views
 
-## 📚 Further Reading
+## Further Reading
 
 Explore Syncfusion’s full documentation for React Spreadsheet:  
-🔗 [Syncfusion React Spreadsheet Docs](https://ej2.syncfusion.com/react/documentation/spreadsheet/)
+🔗 [Syncfusion React Spreadsheet Docs](https://help.syncfusion.com/document-processing/excel/spreadsheet/react/overview)
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome!  
 Feel free to submit improvements, bug fixes, or feature suggestions.
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License.  
-See the `LICENSE` file for details.
+This project is licensed under terms outlined by Syncfusion.  
+For detailed licensing information, please refer to the official documentation:  
+[Syncfusion Document Processing Licensing Overview](https://help.syncfusion.com/document-processing/licensing/overview)
